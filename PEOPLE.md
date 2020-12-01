@@ -1,2 +1,0 @@
-Haskell Carry
-# hexlet-git
